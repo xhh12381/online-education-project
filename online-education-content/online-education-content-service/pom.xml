@@ -8,14 +8,13 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>online-education-content-service</artifactId>
-    <packaging>jar</packaging>
 
     <dependencies>
-<!--        <dependency>-->
-<!--            <groupId>org.hznu</groupId>-->
-<!--            <artifactId>online-education-content-model</artifactId>-->
-<!--            <version>0.0.1-SNAPSHOT</version>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>com.hznu</groupId>
+            <artifactId>online-education-content-model</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
 </project>

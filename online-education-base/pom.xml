@@ -11,6 +11,7 @@
 
     <artifactId>online-education-base</artifactId>
     <dependencies>
+
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
