@@ -1,4 +1,4 @@
-package com.hznu.contentmodel.model.po;
+package com.hznu.content.model.po;
 
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.TableField;

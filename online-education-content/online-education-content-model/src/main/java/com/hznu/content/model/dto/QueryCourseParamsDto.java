@@ -1,4 +1,4 @@
-package com.hznu.contentmodel.model.dto;
+package com.hznu.content.model.dto;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;

@@ -5,7 +5,7 @@
     <groupId>com.hznu</groupId>
     <artifactId>online-education-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>online-education-projects</name>
+    <name>online-education-parent</name>
     <description>online-education-parent</description>
     <packaging>pom</packaging>
 

@@ -1,14 +1,13 @@
-package com.hznu.contentapi;
+package com.hznu.content.api;
 
 import com.hznu.base.model.PageParams;
 import com.hznu.base.model.PageResult;
-import com.hznu.contentmodel.model.dto.QueryCourseParamsDto;
-import com.hznu.contentmodel.model.po.CourseBase;
+import com.hznu.content.model.dto.QueryCourseParamsDto;
+import com.hznu.content.model.po.CourseBase;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.time.LocalDateTime;
